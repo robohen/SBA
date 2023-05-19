@@ -2,7 +2,7 @@
     background-color: rgb(130, 183, 220);
 }
 .side-text{
-    color: rgb(52, 102, 170);
+    color: whitesmoke;
 }
 .luffy:hover{
     position: relative;
@@ -40,4 +40,7 @@
 
 .dropdown:hover .dropdown-content {
   display: block;
+}
+.company-page{
+  background-color: rgb(17, 64, 132);
 }
