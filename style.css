@@ -15,6 +15,11 @@
     0% { top: 0; left: 0; }
     25% { top: 0; left: 100%; }
   }
+  @media (max-width: 800px) {
+    #Luffy {
+      display: none;
+    }
+  }
   .top{
     background-color: rgb(17, 64, 132);
   }
