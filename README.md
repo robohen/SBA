@@ -1,0 +1,3 @@
+This project consists of four pages, 3 html pages, and 1 css page. It begins at the login page, but there is no real functionality with the login page itself. Click Login takes the user to the dashboard page and it displays some data on a table but the data is just a placeholder. Then clicking the signout button on the top right of the page takes the user back to the login page. Clicking the Company name in the top left of the dashboard page takes the user to an About Us page. On that page there is just filler text and clicking the arrow allows the user to return back to the dashboard page.
+The point of this project is to show what I have learned through the course of Per Scholas only being a week in the program.
+The code can be found at https://github.com/robohen/SBA
